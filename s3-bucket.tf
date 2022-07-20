@@ -8,5 +8,5 @@ module "s3-bucket" {
     enabled = true
   }
 
-  bucket_prefix = "${var.prefix}"
+  bucket_prefix = "l2D"
 }
